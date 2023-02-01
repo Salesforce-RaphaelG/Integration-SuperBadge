@@ -1,0 +1,2 @@
+SELECT Name, Email__c, Interview_Date__c, Interview_Result__c, Name__c, Skill_Set__c
+  FROM Talent__c
